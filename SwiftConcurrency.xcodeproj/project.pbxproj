@@ -8,17 +8,17 @@
 
 /* Begin PBXBuildFile section */
 		EB20CE962B0E2286008E2275 /* SwiftConcurrencyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB20CE952B0E2286008E2275 /* SwiftConcurrencyApp.swift */; };
-		EB20CE982B0E2286008E2275 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB20CE972B0E2286008E2275 /* ContentView.swift */; };
 		EB20CE9A2B0E2287008E2275 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB20CE992B0E2287008E2275 /* Assets.xcassets */; };
 		EB20CE9D2B0E2287008E2275 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB20CE9C2B0E2287008E2275 /* Preview Assets.xcassets */; };
+		EB20CEA42B0E22C4008E2275 /* DoCatchTryThrowsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB20CEA32B0E22C4008E2275 /* DoCatchTryThrowsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		EB20CE922B0E2286008E2275 /* SwiftConcurrency.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftConcurrency.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB20CE952B0E2286008E2275 /* SwiftConcurrencyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftConcurrencyApp.swift; sourceTree = "<group>"; };
-		EB20CE972B0E2286008E2275 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		EB20CE992B0E2287008E2275 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EB20CE9C2B0E2287008E2275 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		EB20CEA32B0E22C4008E2275 /* DoCatchTryThrowsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoCatchTryThrowsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				EB20CE952B0E2286008E2275 /* SwiftConcurrencyApp.swift */,
-				EB20CE972B0E2286008E2275 /* ContentView.swift */,
+				EB20CEA32B0E22C4008E2275 /* DoCatchTryThrowsBootcamp.swift */,
 				EB20CE992B0E2287008E2275 /* Assets.xcassets */,
 				EB20CE9B2B0E2287008E2275 /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EB20CE982B0E2286008E2275 /* ContentView.swift in Sources */,
+				EB20CEA42B0E22C4008E2275 /* DoCatchTryThrowsBootcamp.swift in Sources */,
 				EB20CE962B0E2286008E2275 /* SwiftConcurrencyApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
