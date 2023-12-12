@@ -61,8 +61,8 @@ struct HomeView: View {
                 .font(.headline)
         }
         .onAppear(perform: {
-            let newString = manager.getSavedData()
-            let newRandomText = manager.myRandomText
+            _ = manager.getSavedData()
+            _ = manager.myRandomText
         })
         .onReceive(timer, perform: { _ in
             Task {
