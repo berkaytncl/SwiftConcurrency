@@ -22,6 +22,7 @@
 		EBA5D0512B10EC5100EF0526 /* TaskGroupBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBA5D0502B10EC5100EF0526 /* TaskGroupBootcamp.swift */; };
 		EBACDBF72B2765E3001E859F /* ActorsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBACDBF62B2765E3001E859F /* ActorsBootcamp.swift */; };
 		EBEDF2EA2B29D4F1008D38E5 /* AsyncPublisherBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBEDF2E92B29D4F1008D38E5 /* AsyncPublisherBootcamp.swift */; };
+		EBEDF2EC2B29FCAE008D38E5 /* ReferencesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBEDF2EB2B29FCAE008D38E5 /* ReferencesBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +42,7 @@
 		EBA5D0502B10EC5100EF0526 /* TaskGroupBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskGroupBootcamp.swift; sourceTree = "<group>"; };
 		EBACDBF62B2765E3001E859F /* ActorsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActorsBootcamp.swift; sourceTree = "<group>"; };
 		EBEDF2E92B29D4F1008D38E5 /* AsyncPublisherBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncPublisherBootcamp.swift; sourceTree = "<group>"; };
+		EBEDF2EB2B29FCAE008D38E5 /* ReferencesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReferencesBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				EB2280682B2885A900B4C76F /* GlobalActorBootcamp.swift */,
 				EB1103962B290AAB00C79A31 /* SendableBootcamp.swift */,
 				EBEDF2E92B29D4F1008D38E5 /* AsyncPublisherBootcamp.swift */,
+				EBEDF2EB2B29FCAE008D38E5 /* ReferencesBootcamp.swift */,
 				EB20CE992B0E2287008E2275 /* Assets.xcassets */,
 				EB20CE9B2B0E2287008E2275 /* Preview Content */,
 			);
@@ -176,6 +179,7 @@
 				EB1205C82B1F712E0006E72B /* StructClassActorBootcamp.swift in Sources */,
 				EB7558682B10B5FA00C5A0D6 /* TaskBootcamp.swift in Sources */,
 				EBEDF2EA2B29D4F1008D38E5 /* AsyncPublisherBootcamp.swift in Sources */,
+				EBEDF2EC2B29FCAE008D38E5 /* ReferencesBootcamp.swift in Sources */,
 				EB20CEA42B0E22C4008E2275 /* DoCatchTryThrowsBootcamp.swift in Sources */,
 				EB20CEA62B0E57E4008E2275 /* DownloadImageAsync.swift in Sources */,
 				EBA5D0512B10EC5100EF0526 /* TaskGroupBootcamp.swift in Sources */,
